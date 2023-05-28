@@ -1,6 +1,8 @@
 # Guessing Game: Number Challenge
 This project was developed as part of "JavaScript: validações e reconhecimento de voz" course offered by Alura. The objective of this game is guessing a number between 1 and x, where the player receive hint after each incorrect answer.
 
+This game can be played using voice recognition.
+
 ## How to Run the Game
 
 To run the Number Challenge game locally on your machine, follow these steps:
