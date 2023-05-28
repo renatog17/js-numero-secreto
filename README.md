@@ -1,2 +1,2 @@
 # Guessing Game: Number Challenge
-Curso Alura "JavaScript: validações e reconhecimento de voz"
+This project was developed as a part of course "JavaScript: validações e reconhecimento de voz"
